@@ -4,5 +4,5 @@ Git is free software distributed under the GPL.
 Git has a mutable stage called stage.
 Git tracks change.
 Git another line.
-Create a new branch is quick.
+Create a new branch is quick AND simple.
 

@@ -1,2 +1,4 @@
 file3.txt
 add by first document
+file4.txt
+addd by anthoer document
